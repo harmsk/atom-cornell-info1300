@@ -17,6 +17,6 @@
     "atom-package-deps": "latest"
   },
   "package-deps": [
-    "harmsk/atom-php-server"
+    "php-server#harmsk/atom-php-server"
   ]
 }
