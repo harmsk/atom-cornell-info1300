@@ -8,7 +8,7 @@
     "info-1300",
     "info1300"
   ],
-  "repository": "https://github.com/harmsk/atom-php-server",
+  "repository": "https://github.com/harmsk/atom-cornell-info1300",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
