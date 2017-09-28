@@ -1,0 +1,20 @@
+{
+  "name": "cornell-info1300",
+  "main": "./lib/cornell-info1300",
+  "version": "0.1.0",
+  "description": "Support package for Cornell University's INFO/CS 1300 course",
+  "keywords": [
+    "cornell",
+    "info-1300",
+    "info1300"
+  ],
+  "repository": "https://github.com/atom/cornell-info1300",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-package-deps": "latest"
+  },
+  "package-deps": ["harmsk/atom-php-server"]
+}
