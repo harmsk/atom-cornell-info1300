@@ -2,7 +2,7 @@
   "name": "cornell-info1300",
   "main": "./lib/cornell-info1300",
   "version": "0.1.1",
-  "description": "Support package for Cornell University's INFO/CS 1300 course",
+  "description": "Support package for Cornell University's INFO 1300 course",
   "keywords": [
     "cornell",
     "info-1300",
@@ -17,6 +17,15 @@
     "atom-package-deps": "latest"
   },
   "package-deps": [
-    "php-server#harmsk/atom-php-server"
+    "atom-ide-ui",
+    "ide-css",
+    "ide-html",
+    "ide-typescript",
+    "color-picker",
+    "pigments",
+    "teletype",
+    "atomic-management",
+    "atom-html-preview",
+    "w3c-validation#harmsk/atom-w3c-validation"
   ]
 }
