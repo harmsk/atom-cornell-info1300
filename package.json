@@ -17,10 +17,6 @@
     "atom-package-deps": "latest"
   },
   "package-deps": [
-    "atom-ide-ui",
-    "ide-css",
-    "ide-html",
-    "ide-typescript",
     "color-picker",
     "pigments",
     "teletype",
