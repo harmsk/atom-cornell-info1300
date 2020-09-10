@@ -14,7 +14,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "atom-package-deps": "latest"
+    "atom-package-deps": "^6.0.0"
   },
   "package-deps": [
     "atom-html-preview",
