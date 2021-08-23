@@ -1,7 +1,7 @@
 {
   "name": "cornell-info1300",
   "main": "./lib/cornell-info1300",
-  "version": "0.4.0",
+  "version": "0.5.1",
   "description": "Support package for Cornell University's INFO 1300 course",
   "keywords": [
     "cornell",
@@ -14,7 +14,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "atom-package-deps": "latest"
+    "atom-package-deps": "^6.0.0"
   },
   "package-deps": [
     "atomic-management",
