@@ -17,11 +17,11 @@
     "atom-package-deps": "latest"
   },
   "package-deps": [
-    "color-picker",
-    "pigments",
-    "teletype",
     "atomic-management",
     "atom-html-preview",
+    "color-picker",
+    "markdown-preview-enhanced",
+    "pigments",
     "w3c-validation#harmsk/atom-w3c-validation"
   ]
 }
