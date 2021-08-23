@@ -1,7 +1,7 @@
 {
   "name": "cornell-info1300",
   "main": "./lib/cornell-info1300",
-  "version": "0.5.1",
+  "version": "0.6.0",
   "description": "Support package for Cornell University's INFO 1300 course",
   "keywords": [
     "cornell",
